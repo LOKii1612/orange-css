@@ -98,7 +98,7 @@ export const NavigationComponents = ({ displaySidebar, toggleSidebar }) => {
               to={`${component.url}`}
               activeStyle={{
                 color: "white",
-                backgroundColor: "#9575cd",
+                backgroundColor: "ORANGE",
               }}
             >
               {component.name}

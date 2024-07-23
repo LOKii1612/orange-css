@@ -8,7 +8,7 @@ export const NavigationBar = () => {
           style={{
             textDecoration: "none",
             paddingLeft: "2rem",
-            color: "whitesmoke",
+            color: "BLACK",
           }}
           to="/"
         >
